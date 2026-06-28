@@ -64,7 +64,7 @@ project/
 **Clone Repository**
 
 bash
-git clone https://github.com/yourusername/recycle-hub.git
+git clone https://github.com/gayathri6333/recycle-hub.git
 
 
 **Install Frontend Dependencies**
